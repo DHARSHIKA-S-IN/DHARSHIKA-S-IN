@@ -7,3 +7,15 @@ Welcome to m Github profile!! I am an aspiring Data Analyst with a passion for t
 📊 I’m excited to collaborate on projects, contribute to open source, and learn from the amazing community here. Let’s connect and make sense of data together!
 
 🌱 Always eager to grow and learn!
+
+## About Me
+💼 Aspiring Data Analyst
+🌱 Currently pursuing the Google Data Analytics Certification
+🎓 Bachelor's in Electronics and Communication Engineering
+
+## Tools and Languages
+  Excel
+  PowerBI
+  MySQL
+  Python
+  Tableau
