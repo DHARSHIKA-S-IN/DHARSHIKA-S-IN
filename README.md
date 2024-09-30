@@ -14,8 +14,8 @@ Welcome to m Github profile!! I am an aspiring Data Analyst with a passion for t
 🎓 Bachelor's in Electronics and Communication Engineering
 
 ## Tools and Languages
-  Excel
-  PowerBI
-  MySQL
-  Python
-  Tableau
+ * Excel
+ * PowerBI
+ * MySQL
+ * Python
+ * Tableau
